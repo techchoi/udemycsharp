@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "udemyAula2/1.0.0": {
+        "runtime": {
+          "udemyAula2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "udemyAula2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
