@@ -1,0 +1,11 @@
+C:\Users\kotra\source\repos\udemyprogramacao1\udemyprogramacao1\bin\Debug\netcoreapp3.0\udemyprogramacao1.exe
+C:\Users\kotra\source\repos\udemyprogramacao1\udemyprogramacao1\bin\Debug\netcoreapp3.0\udemyprogramacao1.deps.json
+C:\Users\kotra\source\repos\udemyprogramacao1\udemyprogramacao1\bin\Debug\netcoreapp3.0\udemyprogramacao1.runtimeconfig.json
+C:\Users\kotra\source\repos\udemyprogramacao1\udemyprogramacao1\bin\Debug\netcoreapp3.0\udemyprogramacao1.runtimeconfig.dev.json
+C:\Users\kotra\source\repos\udemyprogramacao1\udemyprogramacao1\bin\Debug\netcoreapp3.0\udemyprogramacao1.dll
+C:\Users\kotra\source\repos\udemyprogramacao1\udemyprogramacao1\bin\Debug\netcoreapp3.0\udemyprogramacao1.pdb
+C:\Users\kotra\source\repos\udemyprogramacao1\udemyprogramacao1\obj\Debug\netcoreapp3.0\udemyprogramacao1.csprojAssemblyReference.cache
+C:\Users\kotra\source\repos\udemyprogramacao1\udemyprogramacao1\obj\Debug\netcoreapp3.0\udemyprogramacao1.AssemblyInfoInputs.cache
+C:\Users\kotra\source\repos\udemyprogramacao1\udemyprogramacao1\obj\Debug\netcoreapp3.0\udemyprogramacao1.AssemblyInfo.cs
+C:\Users\kotra\source\repos\udemyprogramacao1\udemyprogramacao1\obj\Debug\netcoreapp3.0\udemyprogramacao1.dll
+C:\Users\kotra\source\repos\udemyprogramacao1\udemyprogramacao1\obj\Debug\netcoreapp3.0\udemyprogramacao1.pdb
