@@ -1,12 +1,12 @@
-RestriÁıes para nomes de vari·veis
- -N„o pode comeÁar com dÌgito: use uma letra ou _
- -N„o usar acentos ou til
- -N„o pode ter espaÁo em branco
- -Sugest„o: use nomes que tenham um significado
+Restri√ß√µes para nomes de vari√°veis
+ -N√£o pode come√ßar com d√≠gito: use uma letra ou _
+ -N√£o usar acentos ou til
+ -N√£o pode ter espa√ßo em branco
+ -Sugest√£o: use nomes que tenham um significado
 
  E R R A D O :
  int 5minutos;
- int sal·rio;
+ int sal√°rio;
  int salario do funcionario;
 
  C O R R E T O :
@@ -15,8 +15,28 @@ RestriÁıes para nomes de vari·veis
  int salarioDoFuncionario;
 =============================================================================================== 
   
-ConvenÁıes
- -Camel Case: lastName (par‚metros de mÈtodos, vari·veis dentro de mÈtodos)
- -Pascal Case: LastName (namespaces, classe, properties e mÈtodos)
- -Padr„o: _lastName (atributos "internos" da classe)
+Conven√ß√µes
+ -Camel Case: lastName (par√¢metros de m√©todos, vari√°veis dentro de m√©todos)
+ -Pascal Case: LastName (namespaces, classe, properties e m√©todos)
+ -Padr√£o: _lastName (atributos "internos" da classe)
 ================================================================================================
+Ex:
+
+namespace udemyCsharp2
+{
+    class ContaBancaria
+    {
+        public string Titular { get; set; }
+        private double _saldo;
+        
+        public void Deposito(double quantia)
+        
+        {
+            _saldo += quantia;
+        }
+        public double GetSaldo()
+        {
+            return _saldo;
+        }
+    }
+}
